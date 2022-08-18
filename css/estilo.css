@@ -1,0 +1,36 @@
+hmtl,body
+{
+	height:50%;
+    background-color: rgb(243, 251, 3);
+}
+
+head
+{
+    text-align: center;
+}
+
+section
+{
+	width: 100%;
+    text-align: center;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top: 30px;
+}
+
+aside
+{
+    text-align: left;   
+}
+
+
+footer
+{
+	position: relative;
+	margin-top: -50px;
+	height: 40px;
+	padding: 5px 0px;
+	clear: both;
+	text-align: right;
+}
+
